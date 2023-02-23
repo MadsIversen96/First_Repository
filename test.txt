@@ -1,3 +1,0 @@
-This is my text file.
-this is my edit.
-this is branch 4
